@@ -1,3 +1,5 @@
+<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=code-vaibhav" alt = "code-vaibhav" /> </p>
+
 - 👋 Hi, I’m @code-vaibhav
 - 👀 I’m interested in Machine learning and web dev (beacause i have only explored two fields till now)
 - 🌱 I’m currently learning golang for backend dev
